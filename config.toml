@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
-theme = "tale-theme"
-title = "Brevifolia"
+languageCode = "es-MX"
 relativeUrls = true
+theme = "tale-theme"
+title = "Saúl Cortés"
