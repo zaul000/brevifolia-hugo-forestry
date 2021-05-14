@@ -20,6 +20,16 @@ fields:
       required: false
     label: Twitter Handle
     description: Enter Twitter Handle Here
+  - name: facebook_handle
+    type: text
+    config:
+      required: false
+    label: Facebook handle
+  - name: youtube_handle
+    type: text
+    config:
+      required: false
+    label: YouTube handle
   - name: email
     type: text
     config:
