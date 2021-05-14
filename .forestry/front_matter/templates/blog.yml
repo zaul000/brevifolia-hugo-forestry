@@ -19,6 +19,10 @@ fields:
       path: authors
   label: Author
   description: Choose author here, add new authors in Authors List
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 - type: datetime
   name: date
   label: Date
