@@ -5,7 +5,7 @@ background_color: "#B4CEC8"
 contact_info:
   twitter_handle: saulcortesmtz
   Facebook_handle: saulcortesmtz
-  YouTube: Inconciencia
+  YouTube_handle: Inconciencia
   email: saul@inconciencia.com
   twitter_url: https://twitter.com/saulcortesmtz
   facebook_url: https://facebook.com/saulcortesmtz
