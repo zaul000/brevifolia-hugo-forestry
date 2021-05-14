@@ -15,6 +15,4 @@ contact_info:
 type: ''
 
 ---
-## Escríbenos.
-
-###### (Web hecha con [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG"))
+## Escríbenos:
