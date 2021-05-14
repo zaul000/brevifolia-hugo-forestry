@@ -1,13 +1,15 @@
 ---
-title: About
+title: Contacto
 date: 2019-07-06T20:13:19.000+00:00
 background_color: "#B4CEC8"
 contact_info:
   twitter_handle: saulcortesmtz
-  github_handle: ''
+  Facebook_handle: saulcortesmtz
+  YouTube: Inconciencia
   email: saul@inconciencia.com
-  twitter_url: https://twitter.com/forestryio
-  github_url: https://github.com/forestryio
+  twitter_url: https://twitter.com/saulcortesmtz
+  facebook_url: https://facebook.com/saulcortesmtz
+  youtube_url: https://youtube.com/inconciencia
 type: ''
 
 ---
