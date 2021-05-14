@@ -1,5 +1,5 @@
 <ul>
-    {{ $aboutTitle := "Acerca De" }}
+    {{ $aboutTitle := "About" }}
     {{if (eq .Title $aboutTitle) }}
         <h1><a href="{{ "/" | relURL }}">close</a></h1>
     {{ else }}
