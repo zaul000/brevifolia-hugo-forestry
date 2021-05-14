@@ -10,8 +10,8 @@ contact_info:
   twitter_url: https://twitter.com/saulcortesmtz
   facebook_url: https://facebook.com/saulcortesmtz
   youtube_url: https://youtube.com/inconciencia
-  facebook_handle: ''
-  youtube_handle: ''
+  facebook_handle: saulcortesmtz
+  youtube_handle: Inconciencia
 type: ''
 
 ---
